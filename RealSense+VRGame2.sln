@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSense+VRGame2.CSharp", "RealSense+VRGame2.CSharp.csproj", "{5269C18D-6AC3-1397-6A05-C10BBEBAC075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSense+VRGame2.CSharp.Editor", "RealSense+VRGame2.CSharp.Editor.csproj", "{E3ED0D20-13AA-EE42-B5CF-B8BC107AEDA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5269C18D-6AC3-1397-6A05-C10BBEBAC075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5269C18D-6AC3-1397-6A05-C10BBEBAC075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5269C18D-6AC3-1397-6A05-C10BBEBAC075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5269C18D-6AC3-1397-6A05-C10BBEBAC075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3ED0D20-13AA-EE42-B5CF-B8BC107AEDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ED0D20-13AA-EE42-B5CF-B8BC107AEDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ED0D20-13AA-EE42-B5CF-B8BC107AEDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ED0D20-13AA-EE42-B5CF-B8BC107AEDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
