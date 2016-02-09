@@ -40,7 +40,7 @@ namespace RSUnityToolkit
 
             if (sts != pxcmStatus.PXCM_STATUS_NO_ERROR)
                 Debug.LogError("PXCSenseManager.EnableHand: " + sts);
-
+            
 
             if (sts2 != pxcmStatus.PXCM_STATUS_NO_ERROR)
                 Debug.LogError("PXCSenseManager.EnableFace: " + sts2);

@@ -296,7 +296,9 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 11400004, guid: 4e5a0d387dc27394b81600988ad0216f, type: 2}
+    - {fileID: 11400002, guid: 4e5a0d387dc27394b81600988ad0216f, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 4e5a0d387dc27394b81600988ad0216f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &633864658
@@ -752,7 +754,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1844476362}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e52ad5285c3e3a5479efc9f7b73b7258, type: 3}
+  m_Script: {fileID: 11500000, guid: ce6026620709a8d489c392c1747618c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1849132180 stripped
